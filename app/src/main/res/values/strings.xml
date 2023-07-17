@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Module_3_Lesson_6_hw_1_Compose</string>
+    <string name="blue_to_green">BLUE ---> GREEN</string>
+    <string name="green_to_red">GREEN ---> RED</string>
+    <string name="red_to_yellow">RED ---> YELLOW</string>
+    <string name="yellow_to_blue">YELLOW ---> BLUE</string>
+    <string name="green_to_blue">BLUE &lt;--- GREEN</string>
+    <string name="red_to_green">GREEN &lt;--- RED</string>
+    <string name="yellow_to_red">RED &lt;--- YELLOW</string>
+    <string name="blue_to_yellow">YELLOW &lt;--- BLUE</string>
+</resources>
